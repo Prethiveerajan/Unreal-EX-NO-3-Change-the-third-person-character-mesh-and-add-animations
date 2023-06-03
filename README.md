@@ -6,7 +6,7 @@
 To Change the third person character mesh and add animations 
 
 ## PROCEDURE:
-/*
+
 1.	Import the animation assets: Obtain the animation files for jump, walk, and idle in a compatible format such as FBX or BVH. To import the animations, go to the Content Browser panel in Unreal Engine, right-click in the desired folder, and select Import
 2.	Create a Separate folder  and Import the Animations to avoid any chaos
 3.	Create an animation blueprint: In Unreal Engine, animation blueprints are used to control character animations. To create a new animation blueprint, follow these steps: 
@@ -29,63 +29,74 @@ f. Rename the state to "Jump" and repeat steps e and f to create states for "Wal
 9.	Create a Anim Montage in Animation Folder To Manage the montages of the animations
 10.	Connect the animation blueprint to the character blueprint: To connect the animation blueprint to the character blueprint and enable the animations in the game, follow these steps: a. Open the character blueprint associated with the third person character. b. In the Viewport tab of the Blueprint Editor, select the mesh component of the character. c. In the Details panel, under the Animation category, find the Animation Blueprint property. d. Click on the dropdown menu and select the animation blueprint you created.
 11.	Test the character: Compile and save all the changes in the blueprints and animations. Now, you can test the character's jump, walk, and idle animations by clicking the Play button in the Unreal Editor.
-*/
 
 
 ## OUTPUT:
 ## MYCHAR:
 ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/c24f083e-3ddb-47d8-849e-8f31f26bb14f)
 
-
-  Prethi<ee
+ Prethi<ee
 ## ANIMATIONS:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/abd7a3f1-cea1-4b03-8cc4-3ef378d33fed)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/ecbb0553-0a1c-40d5-bbc6-46b8607a72d6)
+
+           
 
             
  
 ## STATE MACHINE:
+	  ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/995716b8-6b56-475d-bbdd-f163b0de25c3)
+ 
             
  
 ## STATE DIAGRAM:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/b9a29371-574f-4d5e-9f49-eb7c36ce6349)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/f857c1b6-7bfe-47ff-9ef0-83d6f3f7b9e0)
 
+          
  
 ## VARIABLES:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/8f67c573-6bd5-479b-b96c-c4a6cf9e1791)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/97a4f210-81c6-4ec2-b2e6-4674cb94caeb)
 
+           
   
              
 ## IDLE TO WALK:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/4e11ed1b-c42f-4e75-a455-740ab2bce74a)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/11f24256-7940-419e-a6e6-e2e81251c139)
 
+           
  
 ## WALK TO IDLE:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/834ece70-dd44-447a-b5e7-21e62b5840b7)
+	   
+           ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/e4364d96-b25b-45f1-8806-689e03ac745c)
 
  
 ## WALK TO JUMP:
-            
+            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/677982be-4699-454b-b6fa-b844c9f21c17)
+
   
 
 ## JUMP TO WALK:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/ae96176a-24ca-421b-8397-80794d49a6ce)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/4bd84c0c-5eca-424c-8267-4c43f60c0002)
 
- 
+            
 ## JUMP TO IDLE:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/d624efcb-9175-4761-8cdd-77c355d077b4)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/0e002b1a-a766-4fe0-916f-fddbba960012)
 
- 
+            
 ## IDLE TO JUMP: 
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/55a02123-b554-4558-b162-d8000fa9daf8)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/215ff236-2ccd-42b6-9e0c-1cfb7416a6e9)
+
+            
 
 
 ## ANIMATION BLUEPRINT:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/97a67472-a794-4791-8bda-c34aefe8fbad)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/20c3ab4f-47be-41c7-9066-5371daa65933)
 
+           
             
  
 ## ANIM MONTAGE:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/558c635e-77b6-401a-8b6d-d977f33b36bc)
+          
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/52f920dd-fc6d-4223-8145-268c1e58f931)
 
             
 
@@ -96,7 +107,9 @@ f. Rename the state to "Jump" and repeat steps e and f to create states for "Wal
 
 
 ## THIRD PERSON BLUEPRINT:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/7a0cdda7-6ab0-4249-a9de-2706a725f35e)
+	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/677a9d8e-56d7-46b3-b45d-bf3e144f899a)
+
+          
 
          
 
