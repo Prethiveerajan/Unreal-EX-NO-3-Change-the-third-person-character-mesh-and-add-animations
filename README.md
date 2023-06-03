@@ -37,40 +37,34 @@ f. Rename the state to "Jump" and repeat steps e and f to create states for "Wal
 
  Prethi<ee
 ## ANIMATIONS:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/ecbb0553-0a1c-40d5-bbc6-46b8607a72d6)
+![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/ecbb0553-0a1c-40d5-bbc6-46b8607a72d6)
 
            
 
             
  
 ## STATE MACHINE:
-	  ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/995716b8-6b56-475d-bbdd-f163b0de25c3)
+![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/995716b8-6b56-475d-bbdd-f163b0de25c3)
  
             
  
-## STATE DIAGRAM:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/f857c1b6-7bfe-47ff-9ef0-83d6f3f7b9e0)
+## STATE DIAGRAM:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/f857c1b6-7bfe-47ff-9ef0-83d6f3f7b9e0)
 
           
  
-## VARIABLES:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/97a4f210-81c6-4ec2-b2e6-4674cb94caeb)
+## VARIABLES:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/97a4f210-81c6-4ec2-b2e6-4674cb94caeb)
 
            
   
              
-## IDLE TO WALK:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/11f24256-7940-419e-a6e6-e2e81251c139)
+## IDLE TO WALK:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/11f24256-7940-419e-a6e6-e2e81251c139)
 
            
  
-## WALK TO IDLE:
-	   
-           ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/e4364d96-b25b-45f1-8806-689e03ac745c)
+## WALK TO IDLE: ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/e4364d96-b25b-45f1-8806-689e03ac745c)
 
  
-## WALK TO JUMP:
-            ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/677982be-4699-454b-b6fa-b844c9f21c17)
+## WALK TO JUMP:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/677982be-4699-454b-b6fa-b844c9f21c17)
 
   
 
@@ -78,25 +72,20 @@ f. Rename the state to "Jump" and repeat steps e and f to create states for "Wal
 	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/4bd84c0c-5eca-424c-8267-4c43f60c0002)
 
             
-## JUMP TO IDLE:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/0e002b1a-a766-4fe0-916f-fddbba960012)
+## JUMP TO IDLE: ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/0e002b1a-a766-4fe0-916f-fddbba960012)
 
             
-## IDLE TO JUMP: 
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/215ff236-2ccd-42b6-9e0c-1cfb7416a6e9)
+## IDLE TO JUMP:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/215ff236-2ccd-42b6-9e0c-1cfb7416a6e9)
 
             
 
 
-## ANIMATION BLUEPRINT:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/20c3ab4f-47be-41c7-9066-5371daa65933)
+## ANIMATION BLUEPRINT:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/20c3ab4f-47be-41c7-9066-5371daa65933)
 
            
             
  
-## ANIM MONTAGE:
-          
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/52f920dd-fc6d-4223-8145-268c1e58f931)
+## ANIM MONTAGE:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/52f920dd-fc6d-4223-8145-268c1e58f931)
 
             
 
@@ -106,8 +95,7 @@ f. Rename the state to "Jump" and repeat steps e and f to create states for "Wal
 
 
 
-## THIRD PERSON BLUEPRINT:
-	   ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/677a9d8e-56d7-46b3-b45d-bf3e144f899a)
+## THIRD PERSON BLUEPRINT:![image](https://github.com/Prethiveerajan/Unreal-EX-NO-3-Change-the-third-person-character-mesh-and-add-animations/assets/94233064/677a9d8e-56d7-46b3-b45d-bf3e144f899a)
 
           
 
